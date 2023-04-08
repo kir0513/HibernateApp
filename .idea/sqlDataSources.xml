@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="df071fff-534e-4868-ad02-545953fc5e89" name="hibernate_demo_db@localhost Mapping">
+      <data-sources db="dbdfbf24-44db-4992-a762-1a648e06a7ee" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+  </component>
+</project>
